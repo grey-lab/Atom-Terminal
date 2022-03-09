@@ -44,9 +44,6 @@ echo -e '\n# Add colors to Terminal\nexport CLICOLOR=1\nexport LSCOLORS=ExFxBxDx
 
 
 ## Authors
-* [Nathan Buchar](mailto:hello@nathanbuchar.com) (Owner)
+* [Moses Grey](mailto:mosesgrey5gmail.com) (Designer)
 
 
-
-## License
-ISC
